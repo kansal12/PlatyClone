@@ -1,2 +1,2 @@
-# platy_StyleTTS
-Repository to finetune StyleTTSv2 models
+# PlatyClone
+Repository to keep PlatyClone TTS models
